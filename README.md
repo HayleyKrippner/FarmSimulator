@@ -23,7 +23,7 @@ Importing the project into Eclipse:
   11.	Follow the path General --> File System.
   12.	Go Next.
   13.	Selected the Browse button on the right side of “From directory:”.
-  14.	Locate and open the hek21_mam409_FarmSimulator zip folder.
+  14.	Locate and open the zip folder.
   15.	In the file explorer go --> src --> commandLineApp.
   16.	Select “Select Folder”.
   17.	Check that the “commandLineApp” appears in the left pane.
