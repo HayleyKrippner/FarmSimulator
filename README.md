@@ -38,16 +38,6 @@ Importing the project into Eclipse:
                  In the file explorer go --> src --> main.
   21.	If there JUnit tests have red cross appearing on their files, the JUnit 5 library will need to be added to the build path.
 
-Running the provided command line application JAR:
-  1.	Ensure Java Development Kit 13 is installed on the machine.
-  2.	Open the provided zip folder in the terminal window.
-  3.	Run "java -jar hek21_mam409_FarmSimulatorCommandLine.jar"
-
-Running the provided graphical user interface application JAR:
-  1.	Ensure Java Development Kit 13 is installed on the machine.
-  2.	Open the provided zip folder in the terminal window.
-  3.	Run "java -jar hek21_mam409_FarmSimulatorGUI.jar"
-
 How to run the provided command line application source code in Eclipse:
   1.    Open Elcipse and then the project in Eclipse.
   2.	Locate the gameManager class in the “commandLineApp” package.
